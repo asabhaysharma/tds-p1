@@ -1,6 +1,6 @@
 {
   "prompt": "A photorealistic, wide-angle, eye-level shot inside a seemingly infinite forest of white birch trees. Looking into the deep background, the trees are densely and evenly packed together, creating a tight, uniform vertical pattern. However, the camera is positioned precisely in the center of a massive, unnaturally perfect circular clearing. The ground in the clearing is barren dirt, while the distant forest floor is covered in leaves. The composition creates an uncanny feeling that the vast emptiness exists solely around the point of observation, while the rest of the world remains densely clustered. Foggy, atmospheric lighting. No text, no people, no animals.",
-  "model": "Midjourney v6.1",
+  "model": "nano-banana-2",
   "paradox": "The Inspection Paradox",
   "visual_logic": "A dense, uniform forest that inexplicably contains a massive, perfect void exactly where the viewer stands. It captures the uncanny reality of always experiencing the largest gap in a system that is otherwise densely packed."
 }
