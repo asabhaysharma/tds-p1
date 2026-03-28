@@ -1,6 +1,6 @@
 {
   "prompt": "A photorealistic, cinematic shot in a dimly lit, dusty room. Resting on a heavy, textured oak table is a thick, perfectly clear, solid acrylic block. Permanently suspended inside the clear acrylic are hundreds of small, opaque steel ball bearings, arranged in an elongated, asymmetrical 3D cluster. A single, intense, warm spotlight shines directly through the broad side of the acrylic block. On the stark, matte white wall directly behind the block, the light casts a crisp, high-contrast 2D shadow of the steel balls. The shadow is a distinct ellipse of clustered dots, visually capturing the widest, most informative spread of the 3D structure. Volumetric light rays cut through visible dust motes in the air. Highly detailed, physical materials, realistic optics. Absolutely NO text, NO glowing lights, NO letters, NO wireframes, NO holograms.",
   "model": "nano-banana-2.0",
-  "concept": "PCA",
+  "concept": "Principal Component Analysis",
   "metaphor": "The projection of a 3D cluster into a 2D space where the data points are the steel balls in 3D space and the shadows on the walls are the principal components capturing maximum variance."
 }
