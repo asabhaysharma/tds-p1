@@ -1,0 +1,7 @@
+{
+  "prompt": "generate a shot of a poor brown boy sitting next to a house's solid, concrete wall. It's a time of pandemic. There should be virus particles visible in the air. There is a glass window on the wall which shows a white blonde kid inside wearing a mask wearing headphones and attending a lecture on a laptop inside a cooly lit room. The glass window should appear The boy sitting outside however is poor, has a worn out and torn mask on his face, is coughing while reading from a worn out book. The kid sitting inside has 4 books standing upright together decreasing in height going from left to right. The right book is 1/4th as tall as the left book. The poor kid has 4 books standing upright next to him as well but they are decreasing in height from left to right more rapidly. The right book becomes one-third the size of the left book",
+  "model": "nano-banana-2.0, style: gothic-clay",
+  "dataset_name": "Learning Loss COVID-19 2020-2022",
+  "dataset_url": "https://microdata.worldbank.org/catalog/5367",
+  "insight": "The image captures the economic disparity in educational access during the COVID-19 pandemic between different countries."
+}

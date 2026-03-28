@@ -1,0 +1,8 @@
+{
+  "prompt": "A 13th-century Medieval illuminated manuscript page. Inside a stylized, flattened gothic archway, two figures are locked in a tense exchange. On the left, a scribe (the Generator) is holding up a beautifully painted, but slightly flawed, golden chalice. On the right, a stern inquisitor (the Discriminator) is closely inspecting the chalice with a magnifying glass, pointing out a defect. The perspective is completely flat with no depth of field. The colors are highly saturated: bright vermilion red, deep lapis lazuli blue, and extensive use of flat, unshaded gold leaf for the background and halos. The borders are decorated with twisting ivy. No 3D realism, no modern technology, no photographic lighting.",
+  "model": "Midjourney v6.1",
+  "concept": "Generative Adversarial Networks (Generator vs. Discriminator)",
+  "tradition_name": "Medieval European Manuscript Illumination",
+  "tradition_period": "13th–14th century (Gothic period)",
+  "tradition_approach": "Targeted flattened perspective, saturated lapis and vermilion, and heavy unshaded gold leaf within architectural framing to capture the rigid, hierarchical storytelling grammar of gothic manuscripts."
+}
