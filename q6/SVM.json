@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic, cinematic side-profile shot of a heavy, cylindrical glass tank resting on a dark, brushed steel workbench. The tank is filled with a crystal-clear, dense liquid. Inside the tank, dozens of small spheres are physically separated by buoyancy: heavy, polished steel ball bearings are clustered tightly at the very bottom of the glass, while lightweight, porous white ceramic spheres float clustered together just beneath the water's surface. A perfectly flat, horizontal sheet of intense, razor-thin green laser light slices directly through the exact middle of the water tank, cleanly separating the floating ceramic spheres from the sunken steel spheres. Dark, moody laboratory lighting with sharp glass refractions and realistic water caustics illuminating the steel and ceramic textures. The camera is exactly at eye level. Absolutely NO text, NO glowing UI, NO floating holographic data, NO mathematical symbols, NO grids. A purely physical, optical setup.",
+  "model": "nano-banana-2.0",
+  "concept": "Support Vector Machine",
+  "metaphor": "The floating and sunken spheres represent distinct data classes. The green laser beautifully illustrates the optimal hyperplane: a precise decision boundary cleanly separating the two groups."
+}
